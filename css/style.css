@@ -1,0 +1,33 @@
+body {
+    font-size: 16px;
+    /*color: #ffffff;*/
+    background-color: #70ffdd;
+    box-sizing: border-box;
+    font-family: "Comic Sans MS";
+}
+
+.text {
+    background-color: #ff6657;
+    padding-left: 2%;
+    padding-right: 2%;
+}
+
+h2 {
+    font-weight: bold;
+}
+
+h3 {
+    font-weight: bold;
+}
+
+h1 {
+    font-weight: bold;
+    margin-top: 0;
+    margin-bottom: 0;
+}
+
+.navbar-brand {
+    text-align: left;
+    padding-top: 3%;
+}
+
