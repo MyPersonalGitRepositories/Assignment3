@@ -28,6 +28,11 @@ h1 {
 
 .navbar-brand {
     text-align: left;
-    padding-top: 3%;
+    padding-top: 1%;
+}
+
+li {
+    text-align: center;
+    border: 1px solid black;
 }
 
